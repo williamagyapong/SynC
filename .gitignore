@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+# Data set directory, data
+data
+# For Mac users
+.DS_Store
